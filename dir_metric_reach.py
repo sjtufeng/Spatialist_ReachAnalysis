@@ -200,7 +200,7 @@ if __name__ == '__main__':
     # Change working directory
     directory = r"C:\_SoftwareDevelopment\Grasshopper\GhPython_PatternGeneration\data_RealExamples\Apt"
     os.chdir(directory)
-    csv_file = "Apt_SGA_6sep2018.csv"
+    csv_file = "test_Apt.csv"
     # Set the threshold angle
     threshold_angle = 20
     # Set the number of direction changes allowed
