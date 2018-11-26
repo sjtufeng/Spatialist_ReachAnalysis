@@ -463,7 +463,7 @@ if __name__ == '__main__':
     # Change working directory
     directory = r"C:\_SoftwareDevelopment\Grasshopper\GhPython_PatternGeneration\data_RealExamples\Apt"
     os.chdir(directory)
-    csv_file = "Apt_SGA_6sep2018.csv"
+    csv_file = "test_Apt.csv"
     # Set the unit of length
     length_unit = 'm'
     # Set the maximum metric distance allowed to travel
