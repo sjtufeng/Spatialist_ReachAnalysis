@@ -186,7 +186,7 @@ if __name__ == '__main__':
     # Change working directory
     directory = r"C:\_SoftwareDevelopment\Grasshopper\GhPython_PatternGeneration\data_RealExamples\Apt"
     os.chdir(directory)
-    csv_file = "Apt_SGA_6sep2018.csv"
+    csv_file = "test_Apt.csv"
     # Set the maximum number of intersections allowed to travel
     max_crossings = 3
     # Set the vertex degree threshold
