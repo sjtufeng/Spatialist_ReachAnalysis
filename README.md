@@ -9,6 +9,6 @@ Peponis, J., Bafna, S., & Zhang, Z. (2008). The connectivity of streets: reach a
 
 The algorithms and implementation details can be found in the following two publications:
 
-Feng, C., & Zhang, W. (Forthcoming). Algorithms for the parametric analysis of metric, directional, and intersection reach. *Environment and Planning B: Urban Analytics and City Science*.
+Feng, C., & Zhang, W. (2019). Algorithms for the parametric analysis of metric, directional, and intersection reach. *Environment and Planning B: Urban Analytics and City Science, 46*(8): 1422–1438.
 
 Feng, C., & Zhang, W. (2017). Grasshopper reach analysis toolkit: Interactive parametric syntactic analysis. In T. Heitor, M. Serra, J. Silva, M. Bacharel, & L. Silva (Eds.), *Proceedings: Eleventh International Space Syntax Symposium*. Lisbon: Instituto Superior Técnico, Departamento de Engenharia Civil, Arquitetura e Georrecursos, Portugal.
